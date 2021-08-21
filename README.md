@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Laravel and React
 - 📫 How to reach me: Instagram - @tlgtv
-- ⚡ Fun fact: food makes me happy :) and I'm a good swimmer btw
 
