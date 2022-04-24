@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 
 
 <!-- - 🌱 I’m currently learning Laravel and React -->
-- 📫 How to reach me: Instagram - @tlgtv
+- 📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/makhinur-talgatova/
+- Instagram - @tlgtv
